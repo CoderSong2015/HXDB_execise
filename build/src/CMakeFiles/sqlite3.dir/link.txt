@@ -1,0 +1,1 @@
+/usr/local/gcc-4.9.4/bin/gcc  -fPIC    -shared -Wl,-soname,libsqlite3.so -o ../lib/libsqlite3.so CMakeFiles/sqlite3.dir/sqlite/sqlite3.c.o -lpthread -ldl 
