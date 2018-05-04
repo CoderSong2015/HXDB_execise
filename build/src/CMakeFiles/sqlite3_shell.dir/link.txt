@@ -1,1 +1,0 @@
-/usr/local/gcc-4.9.4/bin/gcc      CMakeFiles/sqlite3_shell.dir/sqlite/shell.c.o  -o ../bin/sqlite3 -rdynamic ../lib/libsqlite3.so -lpthread -ldl -Wl,-rpath,/home/haolin/Desktop/sqlite-fall2017/build/lib 
